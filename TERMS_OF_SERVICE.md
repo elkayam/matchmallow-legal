@@ -1,6 +1,5 @@
 # Matchmallow Terms of Service
 
-> **⚠️ TEMPLATE / DRAFT — NOT LEGAL ADVICE.** This document is a template prepared as a starting point only. It is **not legal advice** and does not create an attorney–client relationship. It must be reviewed, completed, and approved by a qualified attorney licensed in your jurisdiction before it is published or relied upon. Items in `[SQUARE BRACKETS]` are placeholders that the company owner must fill in.
 
 **Effective Date:** June 9, 2026
 
