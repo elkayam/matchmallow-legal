@@ -4,7 +4,7 @@
 
 **Effective Date:** [EFFECTIVE DATE]
 
-These Terms of Service ("**Terms**") govern your access to and use of the Matchmallow mobile application and related services (collectively, the "**Service**"), provided by [COMPANY LEGAL NAME] ("**Matchmallow**," "**we**," "**us**," or "**our**"). By creating an account or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
+These Terms of Service ("**Terms**") govern your access to and use of the Matchmallow mobile application and related services (collectively, the "**Service**"), provided by Matchmallow ("**Matchmallow**," "**we**," "**us**," or "**our**"). By creating an account or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
 ---
 
@@ -35,7 +35,7 @@ These Terms of Service ("**Terms**") govern your access to and use of the Matchm
 
 ## 1. Acceptance of These Terms
 
-By accessing or using the Service, you confirm that you have read, understood, and agree to be bound by these Terms and by our [Privacy Policy](./PRIVACY_POLICY.md), which is incorporated here by reference. These Terms form a binding agreement between you and [COMPANY LEGAL NAME].
+By accessing or using the Service, you confirm that you have read, understood, and agree to be bound by these Terms and by our [Privacy Policy](./PRIVACY_POLICY.md), which is incorporated here by reference. These Terms form a binding agreement between you and Matchmallow.
 
 If you are using the Service on behalf of another person, you represent that you are authorized to accept these Terms on their behalf. Because the Service is a personal dating service, however, accounts are intended to be created and used only by the individual to whom they belong.
 
@@ -58,7 +58,7 @@ To use the Service, you must create an account using a valid email address and a
 - Keep your profile information up to date;
 - Keep your password confidential and not share your account with anyone;
 - Be solely responsible for all activity that occurs under your account; and
-- Notify us immediately at [CONTACT EMAIL] (e.g., support@matchmallow.com) if you suspect any unauthorized use of your account.
+- Notify us immediately at matchmallowapp@gmail.com (e.g., support@matchmallow.com) if you suspect any unauthorized use of your account.
 
 We store passwords only in hashed form (using BCrypt) and never in plain text. You may not create more than one account, create an account for anyone other than yourself, or transfer your account to another person without our consent.
 
@@ -97,7 +97,7 @@ You agree to treat other users with respect and to follow the [Prohibited Uses](
 "**User Content**" means anything you submit to the Service, including your profile information, name, photos, bio, interests, prompt answers (Q&A), self-described attributes, and chat messages.
 
 - **You own your User Content.** You retain all rights you have in the User Content you submit.
-- **License to us.** You grant [COMPANY LEGAL NAME] a non-exclusive, worldwide, royalty-free, sublicensable license to host, store, reproduce, display, and distribute your User Content **solely** for the purpose of operating, providing, securing, and improving the Service (for example, displaying your profile to other users, delivering your chat messages to your matches, and storing your photos with our storage provider). This license ends when you delete the relevant User Content or your account, except for content already shared with other users (e.g., messages they received) and for copies we are required to retain by law.
+- **License to us.** You grant Matchmallow a non-exclusive, worldwide, royalty-free, sublicensable license to host, store, reproduce, display, and distribute your User Content **solely** for the purpose of operating, providing, securing, and improving the Service (for example, displaying your profile to other users, delivering your chat messages to your matches, and storing your photos with our storage provider). This license ends when you delete the relevant User Content or your account, except for content already shared with other users (e.g., messages they received) and for copies we are required to retain by law.
 - **Your responsibilities.** You represent that you own or have the necessary rights to all User Content you submit and that it does not violate these Terms or any law or third-party right.
 - **Moderation.** We may, but are not obligated to, review, screen, or remove User Content at our discretion, including to enforce these Terms.
 
@@ -147,13 +147,13 @@ The Service relies on certain third-party providers to function, including infra
 
 ## 13. Disclaimers of Warranties
 
-THE SERVICE IS PROVIDED "**AS IS**" AND "**AS AVAILABLE**," WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY. TO THE FULLEST EXTENT PERMITTED BY LAW, [COMPANY LEGAL NAME] DISCLAIMS ALL WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+THE SERVICE IS PROVIDED "**AS IS**" AND "**AS AVAILABLE**," WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY. TO THE FULLEST EXTENT PERMITTED BY LAW, Matchmallow DISCLAIMS ALL WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
 
 WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, SECURE, ERROR-FREE, OR FREE OF HARMFUL COMPONENTS, OR THAT ANY USER IS WHO THEY CLAIM TO BE. Some jurisdictions do not allow the exclusion of certain warranties, so some of the above may not apply to you.
 
 ## 14. Limitation of Liability
 
-TO THE FULLEST EXTENT PERMITTED BY LAW, [COMPANY LEGAL NAME] AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OF (OR INABILITY TO USE) THE SERVICE OR YOUR INTERACTIONS WITH OTHER USERS, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY.
+TO THE FULLEST EXTENT PERMITTED BY LAW, Matchmallow AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OF (OR INABILITY TO USE) THE SERVICE OR YOUR INTERACTIONS WITH OTHER USERS, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY.
 
 TO THE FULLEST EXTENT PERMITTED BY LAW, OUR TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SERVICE WILL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID US, IF ANY, IN THE TWELVE (12) MONTHS BEFORE THE EVENT GIVING RISE TO THE LIABILITY, OR (B) ONE HUNDRED U.S. DOLLARS ($100).
 
@@ -161,16 +161,16 @@ Some jurisdictions do not allow certain limitations of liability, so some of the
 
 ## 15. Indemnification
 
-You agree to indemnify, defend, and hold harmless [COMPANY LEGAL NAME] and its officers, directors, employees, and agents from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to: (a) your use of the Service; (b) your User Content; (c) your violation of these Terms or any law; or (d) your interactions or disputes with any other user.
+You agree to indemnify, defend, and hold harmless Matchmallow and its officers, directors, employees, and agents from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to: (a) your use of the Service; (b) your User Content; (c) your violation of these Terms or any law; or (d) your interactions or disputes with any other user.
 
 ## 16. Apple App Store — EULA Terms
 
 If you download the app from the Apple App Store, the following additional terms apply and, in the event of a conflict with the rest of these Terms, control with respect to your use of the app on Apple devices:
 
-- **This agreement is between you and [COMPANY LEGAL NAME] only, and not with Apple Inc. ("Apple").** Apple is not responsible for the app or its content.
+- **This agreement is between you and Matchmallow only, and not with Apple Inc. ("Apple").** Apple is not responsible for the app or its content.
 - The license granted to you for the app is a non-transferable license to use the app on any Apple-branded device that you own or control, as permitted by the App Store Terms of Service.
-- Apple has no obligation to provide any maintenance or support for the app. Any warranty claims, product liability claims, claims that the app fails to conform to legal requirements, and claims arising under consumer protection or similar legislation are the responsibility of [COMPANY LEGAL NAME], not Apple. If the app fails to conform to any applicable warranty, you may notify Apple, and Apple may refund the purchase price (if any); to the maximum extent permitted by law, Apple has no other warranty obligation regarding the app.
-- [COMPANY LEGAL NAME], not Apple, is responsible for addressing any claims by you or any third party relating to the app or your possession or use of it, including product liability, legal/regulatory compliance, and intellectual property claims.
+- Apple has no obligation to provide any maintenance or support for the app. Any warranty claims, product liability claims, claims that the app fails to conform to legal requirements, and claims arising under consumer protection or similar legislation are the responsibility of Matchmallow, not Apple. If the app fails to conform to any applicable warranty, you may notify Apple, and Apple may refund the purchase price (if any); to the maximum extent permitted by law, Apple has no other warranty obligation regarding the app.
+- Matchmallow, not Apple, is responsible for addressing any claims by you or any third party relating to the app or your possession or use of it, including product liability, legal/regulatory compliance, and intellectual property claims.
 - You represent that you are not located in a country subject to a U.S. Government embargo or designated as a "terrorist supporting" country, and that you are not listed on any U.S. Government list of prohibited or restricted parties.
 - **Apple and Apple's subsidiaries are third-party beneficiaries of these Terms, and upon your acceptance, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary.**
 
@@ -193,6 +193,6 @@ These Terms are governed by the laws of **[JURISDICTION / GOVERNING LAW]**, with
 
 If you have questions about these Terms, contact us at:
 
-- **Email:** [CONTACT EMAIL] (suggested: support@matchmallow.com)
-- **Company:** [COMPANY LEGAL NAME]
+- **Email:** matchmallowapp@gmail.com (suggested: support@matchmallow.com)
+- **Company:** Matchmallow
 - **Address:** [COMPANY ADDRESS]

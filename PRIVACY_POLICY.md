@@ -4,7 +4,7 @@
 
 **Effective Date:** [EFFECTIVE DATE]
 
-This Privacy Policy explains how [COMPANY LEGAL NAME] ("**Matchmallow**," "**we**," "**us**," or "**our**") collects, uses, shares, and protects your personal information when you use the Matchmallow mobile application and related services (the "**Service**"). By using the Service, you agree to the practices described here. If you do not agree, please do not use the Service.
+This Privacy Policy explains how Matchmallow ("**Matchmallow**," "**we**," "**us**," or "**our**") collects, uses, shares, and protects your personal information when you use the Matchmallow mobile application and related services (the "**Service**"). By using the Service, you agree to the practices described here. If you do not agree, please do not use the Service.
 
 ---
 
@@ -32,7 +32,7 @@ This Privacy Policy explains how [COMPANY LEGAL NAME] ("**Matchmallow**," "**we*
 
 ## 1. Who We Are
 
-Matchmallow is an "intentional" dating app available on iOS and Android. The app is built with Expo/React Native, and its backend runs on Microsoft Azure. The data controller responsible for your personal information is [COMPANY LEGAL NAME], located at [COMPANY ADDRESS]. You can reach us at [CONTACT EMAIL] (suggested: support@matchmallow.com).
+Matchmallow is an "intentional" dating app available on iOS and Android. The app is built with Expo/React Native, and its backend runs on Microsoft Azure. The data controller responsible for your personal information is Matchmallow, located at [COMPANY ADDRESS]. You can reach us at matchmallowapp@gmail.com (suggested: support@matchmallow.com).
 
 ## 2. Information We Collect
 
@@ -132,7 +132,7 @@ We retain your personal information for as long as your account is active and as
 - **In-app account deletion.** You can delete your account directly within the app at any time. **Deleting your account erases your personal data** from the Service.
 - **Limited exceptions.** We may retain certain information where necessary to comply with legal obligations, resolve disputes, prevent fraud and abuse, or enforce our agreements. Content you already shared with another user (for example, messages they received) may remain visible to that user. Backups are purged on a rolling basis according to our standard backup cycle.
 
-If you would like help deleting your data, contact us at [CONTACT EMAIL].
+If you would like help deleting your data, contact us at matchmallowapp@gmail.com.
 
 ## 10. Security
 
@@ -146,7 +146,7 @@ No method of transmission or storage is 100% secure, so we cannot guarantee abso
 
 ## 11. Children
 
-The Service is strictly for adults. **You must be at least 18 years old to use the Service.** We do not knowingly collect personal information from anyone under 18. We collect and enforce date of birth at registration, and under-18 use is prohibited. If we learn that we have collected information from someone under 18, we will delete it and terminate the account. If you believe a minor is using the Service, please contact us at [CONTACT EMAIL].
+The Service is strictly for adults. **You must be at least 18 years old to use the Service.** We do not knowingly collect personal information from anyone under 18. We collect and enforce date of birth at registration, and under-18 use is prohibited. If we learn that we have collected information from someone under 18, we will delete it and terminate the account. If you believe a minor is using the Service, please contact us at matchmallowapp@gmail.com.
 
 ## 12. Your Privacy Rights
 
@@ -174,7 +174,7 @@ You also have the right to lodge a complaint with your local data protection aut
 
 We will not discriminate against you for exercising any of these rights.
 
-**How to exercise your rights.** Use the in-app tools where available, or contact us at [CONTACT EMAIL]. We may need to verify your identity before acting on your request, and we will respond within the timeframes required by applicable law.
+**How to exercise your rights.** Use the in-app tools where available, or contact us at matchmallowapp@gmail.com. We may need to verify your identity before acting on your request, and we will respond within the timeframes required by applicable law.
 
 ## 13. International Data Transfers
 
@@ -196,8 +196,8 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions about this Privacy Policy or wish to exercise your privacy rights, contact us:
 
-- **Email / Data-protection contact:** [CONTACT EMAIL] (suggested: support@matchmallow.com)
-- **Company:** [COMPANY LEGAL NAME]
+- **Email / Data-protection contact:** matchmallowapp@gmail.com (suggested: support@matchmallow.com)
+- **Company:** Matchmallow
 - **Address:** [COMPANY ADDRESS]
 
 If you are in the EU/UK and we are required to designate a representative or Data Protection Officer, their contact details will be provided here: [JURISDICTION / GOVERNING LAW — add DPO/EU representative if required].
