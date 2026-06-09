@@ -2,7 +2,7 @@
 
 Terms of Service and Privacy Policy for the Matchmallow app, in **English** and **Hebrew**, served as static pages via **GitHub Pages**.
 
-Live: https://elkayam.github.io/matchmallow-legal/
+Live: https://legal.matchmallow.com/ (also https://elkayam.github.io/matchmallow-legal/)
 
 ## Pages
 - `terms.html` / `terms.he.html`
@@ -18,11 +18,14 @@ Live: https://elkayam.github.io/matchmallow-legal/
    ```
 3. Commit and push — GitHub Pages redeploys automatically.
 
-## Before publishing as final
-- Fill every `[BRACKETED PLACEHOLDER]` (company legal name, jurisdiction, contact email, effective date, address).
-- Remove the "TEMPLATE / DRAFT" notice at the top of each document.
-- Have a qualified attorney review both languages.
+## Status
+- Placeholders filled (company = Matchmallow, contact = matchmallowapp@gmail.com, governing law = State of Israel, effective date = June 9 2026, email-only contact).
+- Draft/template notice removed — these are the publish version.
 
-## Custom domain (optional)
-Point `legal.matchmallow.com` at GitHub Pages with a GoDaddy DNS **CNAME** record
-(`legal` → `elkayam.github.io`), then set the custom domain in repo Settings → Pages.
+## Still recommended
+- Have a qualified attorney review both languages before relying on them.
+- When the business is incorporated, replace "Matchmallow" with the registered legal entity name.
+
+## Custom domain
+Live at `legal.matchmallow.com` (GoDaddy DNS **CNAME** `legal` → `elkayam.github.io`,
+custom domain set in repo Settings → Pages).
