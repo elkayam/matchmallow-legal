@@ -116,7 +116,7 @@ We share information only as described below.
 | **Resend** | Transactional & verification emails | Email address, message content |
 | **Expo (push notification service)** | Delivering push notifications (Apple/Google deliver the actual pushes) | Push token, device platform, notification content |
 
-**For legal and safety reasons.** We may disclose information if required by law, legal process, or government request, or where we believe disclosure is necessary to protect the rights, safety, or property of our users, the public, or us — including to investigate or report abuse.
+**For legal and safety reasons.** We may disclose information if required by law, legal process, or government request, or where we believe disclosure is necessary to protect the rights, safety, or property of our users, the public, or us — including to investigate or report abuse. Where you are reported, authorized moderators may review the reported conversation and profile to assess the report and decide whether to remove content or ban the account.
 
 **In a business transfer.** If we are involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction, subject to this Policy.
 
@@ -129,6 +129,7 @@ We share information only as described below.
 We retain your personal information for as long as your account is active and as needed to provide the Service.
 
 - **In-app account deletion.** You can delete your account directly within the app at any time. **Deleting your account erases your personal data** from the Service.
+- **Safety records.** If another user reports you, the relevant conversation between you and that user may be captured at the time of the report and retained for safety review even after a block, so we can investigate and act on the report. This evidence is accessible only to authorized moderators and is kept only as long as needed for safety and abuse-prevention purposes.
 - **Limited exceptions.** We may retain certain information where necessary to comply with legal obligations, resolve disputes, prevent fraud and abuse, or enforce our agreements. Content you already shared with another user (for example, messages they received) may remain visible to that user. Backups are purged on a rolling basis according to our standard backup cycle.
 
 If you would like help deleting your data, contact us at matchmallowapp@gmail.com.
@@ -152,6 +153,8 @@ The Service is strictly for adults. **You must be at least 18 years old to use t
 Depending on where you live, you may have some or all of the following rights regarding your personal information.
 
 **For everyone.** You can view and edit most of your profile information directly in the app, and you can delete your account in the app at any time.
+
+**Israel (Protection of Privacy Law).** Matchmallow operates from Israel, and Israeli law governs the Service. Under Israel's Protection of Privacy Law, you have the right to review the personal information we hold about you, to request that inaccurate, incomplete, or outdated information be corrected or deleted, and to delete your account. To exercise these rights, use the in-app tools or contact us at matchmallowapp@gmail.com.
 
 **GDPR (EU/UK and similar).** You have the right to:
 
