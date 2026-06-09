@@ -1,0 +1,12 @@
+{
+  "name": "matchmallow-legal",
+  "private": true,
+  "type": "module",
+  "description": "Matchmallow Terms of Service & Privacy Policy (EN + HE), served via GitHub Pages.",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "marked": "^12"
+  }
+}
