@@ -2,7 +2,7 @@
 
 > **⚠️ TEMPLATE / DRAFT — NOT LEGAL ADVICE.** This document is a template prepared as a starting point only. It is **not legal advice** and does not create an attorney–client relationship. It must be reviewed, completed, and approved by a qualified attorney licensed in your jurisdiction before it is published or relied upon. Items in `[SQUARE BRACKETS]` are placeholders that the company owner must fill in.
 
-**Effective Date:** [EFFECTIVE DATE]
+**Effective Date:** June 9, 2026
 
 These Terms of Service ("**Terms**") govern your access to and use of the Matchmallow mobile application and related services (collectively, the "**Service**"), provided by Matchmallow ("**Matchmallow**," "**we**," "**us**," or "**our**"). By creating an account or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
@@ -180,7 +180,7 @@ We may update these Terms from time to time. If we make material changes, we wil
 
 ## 18. Governing Law & Dispute Resolution
 
-These Terms are governed by the laws of **[JURISDICTION / GOVERNING LAW]**, without regard to its conflict-of-laws rules. You agree that the courts located in **[JURISDICTION / GOVERNING LAW]** will have exclusive jurisdiction over any dispute arising out of or relating to these Terms or the Service, except where prohibited by applicable law. Nothing in this section deprives you of the protection of mandatory consumer-protection laws of your country of residence.
+These Terms are governed by the laws of **the State of Israel**, without regard to its conflict-of-laws rules. You agree that the courts located in **the State of Israel** will have exclusive jurisdiction over any dispute arising out of or relating to these Terms or the Service, except where prohibited by applicable law. Nothing in this section deprives you of the protection of mandatory consumer-protection laws of your country of residence.
 
 ## 19. Miscellaneous
 
@@ -195,4 +195,3 @@ If you have questions about these Terms, contact us at:
 
 - **Email:** matchmallowapp@gmail.com (suggested: support@matchmallow.com)
 - **Company:** Matchmallow
-- **Address:** [COMPANY ADDRESS]

@@ -2,7 +2,7 @@
 
 > **⚠️ TEMPLATE / DRAFT — NOT LEGAL ADVICE.** This document is a template prepared as a starting point only. It is **not legal advice** and does not create an attorney–client relationship. It must be reviewed, completed, and approved by a qualified attorney licensed in your jurisdiction before it is published or relied upon. Items in `[SQUARE BRACKETS]` are placeholders that the company owner must fill in.
 
-**Effective Date:** [EFFECTIVE DATE]
+**Effective Date:** June 9, 2026
 
 This Privacy Policy explains how Matchmallow ("**Matchmallow**," "**we**," "**us**," or "**our**") collects, uses, shares, and protects your personal information when you use the Matchmallow mobile application and related services (the "**Service**"). By using the Service, you agree to the practices described here. If you do not agree, please do not use the Service.
 
@@ -32,7 +32,7 @@ This Privacy Policy explains how Matchmallow ("**Matchmallow**," "**we**," "**us
 
 ## 1. Who We Are
 
-Matchmallow is an "intentional" dating app available on iOS and Android. The app is built with Expo/React Native, and its backend runs on Microsoft Azure. The data controller responsible for your personal information is Matchmallow, located at [COMPANY ADDRESS]. You can reach us at matchmallowapp@gmail.com (suggested: support@matchmallow.com).
+Matchmallow is an "intentional" dating app available on iOS and Android. The app is built with Expo/React Native, and its backend runs on Microsoft Azure. The data controller responsible for your personal information is Matchmallow. You can reach us at matchmallowapp@gmail.com (suggested: support@matchmallow.com).
 
 ## 2. Information We Collect
 
@@ -198,6 +198,5 @@ If you have questions about this Privacy Policy or wish to exercise your privacy
 
 - **Email / Data-protection contact:** matchmallowapp@gmail.com (suggested: support@matchmallow.com)
 - **Company:** Matchmallow
-- **Address:** [COMPANY ADDRESS]
 
-If you are in the EU/UK and we are required to designate a representative or Data Protection Officer, their contact details will be provided here: [JURISDICTION / GOVERNING LAW — add DPO/EU representative if required].
+If you are in the EU/UK and we are required to designate a representative or Data Protection Officer, their contact details will be provided here: We have not appointed a Data Protection Officer or EU representative; you can contact us at the email above..
