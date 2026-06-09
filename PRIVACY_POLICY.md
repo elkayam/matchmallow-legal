@@ -32,7 +32,7 @@ This Privacy Policy explains how Matchmallow ("**Matchmallow**," "**we**," "**us
 
 ## 1. Who We Are
 
-Matchmallow is an "intentional" dating app available on iOS and Android. The app is built with Expo/React Native, and its backend runs on Microsoft Azure. The data controller responsible for your personal information is Matchmallow. You can reach us at matchmallowapp@gmail.com (suggested: support@matchmallow.com).
+Matchmallow is an "intentional" dating app available on iOS and Android. The app is built with Expo/React Native, and its backend runs on Microsoft Azure. The data controller responsible for your personal information is Matchmallow. You can reach us at matchmallowapp@gmail.com.
 
 ## 2. Information We Collect
 
@@ -196,7 +196,7 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions about this Privacy Policy or wish to exercise your privacy rights, contact us:
 
-- **Email / Data-protection contact:** matchmallowapp@gmail.com (suggested: support@matchmallow.com)
+- **Email / Data-protection contact:** matchmallowapp@gmail.com
 - **Company:** Matchmallow
 
 If you are in the EU/UK and we are required to designate a representative or Data Protection Officer, their contact details will be provided here: We have not appointed a Data Protection Officer or EU representative; you can contact us at the email above..

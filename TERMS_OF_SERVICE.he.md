@@ -193,5 +193,5 @@ Matchmallow היא אפליקציית היכרויות "מכוונת" שתוכנ
 
 אם יש לך שאלות בנוגע לתנאים אלה, צור עמנו קשר:
 
-- **דוא"ל:** matchmallowapp@gmail.com (מומלץ: support@matchmallow.com)
+- **דוא"ל:** matchmallowapp@gmail.com
 - **חברה:** Matchmallow

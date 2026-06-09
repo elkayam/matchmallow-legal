@@ -193,5 +193,5 @@ These Terms are governed by the laws of **the State of Israel**, without regard 
 
 If you have questions about these Terms, contact us at:
 
-- **Email:** matchmallowapp@gmail.com (suggested: support@matchmallow.com)
+- **Email:** matchmallowapp@gmail.com
 - **Company:** Matchmallow
